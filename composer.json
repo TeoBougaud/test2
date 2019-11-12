@@ -1,0 +1,20 @@
+{
+    "name": "armonia/dev-test",
+    "type": "project",
+    "require-dev": {
+        "filp/whoops": "^2.3"
+    },
+    "description" : "Test de recrutement Armony Niveau 1",
+    "require": {
+        "patricklouys/http": "^1.4",
+        "nikic/fast-route": "^1.3",
+        "twig/twig": "^2.11",
+        "vlucas/phpdotenv": "^3.3",
+        "php-di/php-di": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Armonia\\": "src/"
+        }
+    }
+}
