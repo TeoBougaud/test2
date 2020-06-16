@@ -37,6 +37,7 @@ La page [http://localhost:8000/test.php](http://localhost:8000/test.php) ne s'af
 ### Etape 1
 
 ![Etape 1 : utilisateur inconnu](./images/etape_1_inconnu.png)
+
 ![Etape 1 : Robert Dubois](./images/etape_1_robert_dubois.png)
 
 ### Etape 2
