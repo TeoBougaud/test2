@@ -4,13 +4,15 @@ Ce test a été mis au point pour tenter de cerner vos capacités. Ce ne sont pa
 
 Vous devez faire ce test seul, sans aide externe mais vous pouvez bien entendu vous documenter sur internet.
 
-Pour chaque étape du test, vous devrez publier votre solution via git, sur notre dépôt. Le dépôt contient déjà une branche solution. Vous devez publier sur cette branche et non pas sur la branche master. Si vous n'y arrivez pas, vous nous enverrez par mail votre projet fini sous forme d'archive.
+Pour chaque étape du test, vous devrez publier votre solution via git, sur notre dépôt. Le dépôt contient déjà une branche solution. Vous devez publier sur cette branche et non pas sur la branche master.
+
+A l'issue du test, vous devrez envoyer un compte-rendu de celui-ci (temps de réalisation, difficultés éventuelles rencontrées, impression générale) à l'adresse suivante : gdc@armonia-group.com
 
 ## Installation
 
 * Cloner le projet git
 * Installer les dépendances du projet avec [Composer](https://getcomposer.org/)
-* Lancer le serveur de test intégré à php : `php -S localhost:8000 public/index.php`
+* Ouvrir une invite de commande à la racine du projet et lancer le serveur de test intégré à php : `php -S localhost:8000 public/index.php`
 * Ouvrir la page index du projet : [http://localhost:8000/](http://localhost:8000/)
 
 ## 1ère étape
